@@ -1,0 +1,6 @@
+lps22hh_read_data_polling.c:143:6:lps22hh_read_data_polling	40	static
+lps22hh_read_data_polling.c:209:16:platform_write	40	static
+lps22hh_read_data_polling.c:239:16:platform_read	40	static
+lps22hh_read_data_polling.c:267:13:tx_com	16	static
+lps22hh_read_data_polling.c:284:13:platform_delay	16	static
+lps22hh_read_data_polling.c:297:13:platform_init	4	static
